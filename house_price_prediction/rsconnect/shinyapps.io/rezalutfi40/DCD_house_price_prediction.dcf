@@ -1,0 +1,12 @@
+name: DCD_house_price_prediction
+title: DCD_house_price_prediction
+username:
+account: rezalutfi40
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4146993
+bundleId: 4631829
+url: https://rezalutfi40.shinyapps.io/DCD_house_price_prediction/
+when: 1621832209.19446
+asMultiple: FALSE
+asStatic: FALSE
