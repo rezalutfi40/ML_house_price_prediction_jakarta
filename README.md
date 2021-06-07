@@ -34,14 +34,14 @@ sebelum melakukan modeling pada data, alangkah baiknya jika kita mengenal atau m
 <img src = 'asset/5.jpg'>
 <img src = 'asset/6.jpg'>
 
+# Modeling 
 
+pada proses modeling, saya membagi data menjadi dua objek yaitu data training dan data validasi dimana persentase masing-masing adalah 80% dan 20% yang nantinya akan dilakukan cross validation. pada model ini, saya menggunakan algoritma random forest dan didapat MAPE sebesar 24.5%. dimana, output dari model ini adalah Harga dari spesifikasi rumah yang terdapat pada data. 
 
 ## Conclusion
-pada projek ini, dapat kita ketahui bahwa pada URL: https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31, 7 film 
-dengan rating tertinggi secara urut adalah: Chernobyl, The Boys, The Mandalorian, Gisaengchung, Joker, What We Do in the Shadows dan 
-The Morning Show
 
-untuk lebi lanjut, anda dapat mengunjungi link dashboard saya pada link berikut: 
+Pada project ini, saya telah membuat dashboard tentang prediksi harga menggunakan tools R Studio dan Algoritma Random Forest dimana rerata persentase error (MAPE) sebesar 24.5%. Untuk mengetahui lebih lanjut mengenai dashboard saya, anda bisa mengunjungi laman pada link berikut: 
+
 https://rezalutfi40.shinyapps.io/DCD_house_price_prediction/
 
 
