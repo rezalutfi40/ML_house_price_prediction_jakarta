@@ -30,7 +30,9 @@ melakukan trnsformasi pada data yang sudah di extract (raw data) menjadi data ya
 
 # EDA 
 sebelum melakukan modeling pada data, alangkah baiknya jika kita mengenal atau mengeksplor data yang kita miliki. dimana hasil dari EDA tersebut adalah sebagai berikut: 
+
 <img src = 'asset/5.jpg'>
+<img src = 'asset/6.jpg'>
 
 
 
