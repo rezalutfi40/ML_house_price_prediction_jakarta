@@ -15,8 +15,8 @@ Menggunakan software R Studio dengan menggunakan package:
 - tidyverse (data wrangling)
 
 # ETL (Extract, Transform dan Load)
-<img src = 'asset/1'>
-<img src = 'asset/2'>
+<img src = 'asset/1.jpg'>
+<img src = 'asset/2.jpg'>
 
 melakukan extracting pada website 
 
