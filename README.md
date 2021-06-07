@@ -23,19 +23,16 @@ Menggunakan software R Studio dan package seperti:
 melakukan extracting pada website lamudi.com dengan menggunakan SelectorGadget pada aplikasi Chrome, lalu node pada HTML tersebut dimasukan kedalam script R untuk melakukan exracting menggunakan package Rvest.  
 
 ## Transform & Load
-<img src = 'asset/3.jpg'>
 <img src = 'asset/4.jpg'>
+<img src = 'asset/3.jpg'>
 
 melakukan trnsformasi pada data yang sudah di extract (raw data) menjadi data yang lebih bersih dan siap disajikan (Load) 
 
-# Data Wrangling
-memproses data yang sebelumnya berupa list, menjadi dataframe dengan tipe data yang sesuai dengan menggunakan pandas. dilakukan juga 
-sorting untuk menentukan film dengan rating tertinggi. output dari proses ini adalah data yang bersih dan siap untuk divisualisasikan
+# EDA 
+sebelum melakukan modeling pada data, alangkah baiknya jika kita mengenal atau mengeksplor data yang kita miliki. dimana hasil dari EDA tersebut adalah sebagai berikut: 
+<img src = 'asset/5.jpg'>
 
-# Data Visualization
-tahap ini yaitu menyajikan datframe kedalam bentuk plot (bar) agar data lebih menarik dan mudah untuk dipahami
 
-<img src='plot1.png'>
 
 ## Conclusion
 pada projek ini, dapat kita ketahui bahwa pada URL: https://www.imdb.com/search/title/?release_date=2019-01-01,2019-12-31, 7 film 
